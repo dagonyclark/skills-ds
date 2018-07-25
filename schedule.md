@@ -4,6 +4,8 @@
 
 ### Day 1: Introduction to Data Science and Python
 
+[Original lecture repo](https://github.com/learn-co-curriculum/ds-intro-skills)
+
 | Class start — 6:00 PM | |
 |-----------------------|-|
 | Welcome and introductions — 20 min (end 6:30 PM) | Present the [Course Introduction slides]() (please copy and tailor deck to your class / location if desired) |
@@ -18,10 +20,16 @@
 
 ### Day 2: Python Data Structures
 
+[Original lecture repo](https://github.com/learn-co-curriculum/ds-python-lists_dicts)
+
 | Class start — 6:00 PM | |
 |-----------------------|-|
 | Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead |
-| Lesson — 40 min (end 7:10 PM) | [The Data Science Process and Roles](lessons/the_data_science_process_and_roles/README.md#readme) |
+| Lesson — ## min (end #:## PM) | [Python Data Structures](lessons/python_data_structures/README.md#readme) |
+| Stand up and stretch — 30 seconds | |
+| Lab — ## min (#:## PM) | [Lists Lab](https://github.com/learn-co-curriculum/python-lists-lab) |
+| Lab — ## min (#:## PM) | [Lists and Maps Lab](https://github.com/learn-co-curriculum/py-lists-with-maps) |
+| Lab — ## min (#:## PM) | [Dictionaries Lab](https://github.com/learn-co-curriculum/python-dictionaries-lab) |
 | Closing — 10 min (end 9:00 PM) | |
 
 ---
