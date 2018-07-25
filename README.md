@@ -6,6 +6,8 @@ _🚧 This repo is a work in progress 🚧_
 - [Teacher onboarding guide](https://sites.google.com/flatironschool.com/skills-teachers)
 - [Learn.co curriculum track](https://learn.co/curriculum/tracks/42337)
 
+## Schedule overview
+
 **Week 1: Intro to Python and Collections**
 
 - [Day 1: Introduction to Data Science and Python](schedule.md#day-1-introduction-to-data-science-and-python)
