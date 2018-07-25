@@ -8,7 +8,7 @@ _🚧 This repo is a work in progress 🚧_
 
 **Week 1: Intro to Python and Collections**
 
-- [Day 1: Introduction to Data Science and Python](schedule#)
+- [Day 1: Introduction to Data Science and Python](schedule#day-1-introduction-to-data-science-and-python)
 - [Day 2: Python Data Structures](schedule#)
 
 **Week 2: Visualizations and Iteration**
