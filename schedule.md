@@ -4,14 +4,12 @@
 
 ### Day 1: Introduction to Data Science and Python
 
-- Class start — 6:00 PM
-- Welcome and introductions — 20 min (end 6:30 PM)
-  - Present the [Course Introduction slides]() (please copy and tailor deck to your class / location if desired)
-- Lesson — 40 min (end 7:10 PM)
-  - [The Data Science Process and Roles]()
-- Break — 5 min (end 7:15 PM)
-- Lesson — 90 min (9:15 PM)
-  - [Data Science Tools and Technologies]()
+| Class start — 6:00 PM ||
+|-----------------------||
+| Welcome and introductions — 20 min (end 6:30 PM) | Present the [Course Introduction slides]() (please copy and tailor deck to your class / location if desired) |
+| Lesson — 40 min (end 7:10 PM)  | [The Data Science Process and Roles](the_data_science_process_and_roles/README.md) |
+| Break — 5 min (end 7:15 PM) ||
+| Lesson — 90 min (9:15 PM) | [Data Science Tools and Technologies]() |
 
 ### Day 2: Python Data Structures
 

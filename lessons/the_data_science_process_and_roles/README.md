@@ -80,11 +80,13 @@ Data exploration or *Exploratory Data Analysis* is the stage that follows data c
 * Calculating basic statistics i.e. mean, median and mode etc.
 * Plotting histograms, scatter plots, distribution curves to identify trends in data
 * Other interactive visualization with filtering to focus on a specific segment of data
+
 ![EDA](eda.png)
 
 ### Feature Engineering
 
 A "Feature" is a measurable attribute of phenomenon being observed. Based on the nature of analytical question asked in the first step, a data scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve i.e. creating a BMI (Body Mass Index) from the weights and heights of individuals in the dataset. This stage will directly influence the accuracy of the predictive model you construct in the next stage.
+
 ![Feat](feat.png)
 
 ### Predictive Modeling
