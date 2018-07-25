@@ -23,7 +23,7 @@ This lesson provides an introduction to the data science process and challenges 
 
 A common question asked by most aspiring data scientists is "How to do data science ?" or "How do I get started with data science skills". Following steps describe different stages of the data science process as shown by Sudeep Agarwal [Understanding Data Science Life Cycle](http://sudeep.co/data-science/Understanding-the-Data-Science-Lifecycle)
 
-<img src="chart.png" width = "500"/>
+<img src="media/chart.png" width = "500"/>
 
 ### Business Understanding / Domain Knowledge
 
@@ -70,7 +70,7 @@ Data cleaning/cleansing/preprocessing/wrangling is usually the most time consumi
 
 Data cleaning stage require development of a strategy on how to deal with these issues. Such a strategy may highly vary between different analysis experiments according to the nature of analytical question.
 
-![Data Cleaning](clean.png)
+![Data Cleaning](media/clean.png)
 
 ### Data Exploration
 
@@ -81,13 +81,13 @@ Data exploration or *Exploratory Data Analysis* is the stage that follows data c
 * Plotting histograms, scatter plots, distribution curves to identify trends in data
 * Other interactive visualization with filtering to focus on a specific segment of data
 
-![EDA](eda.png)
+![EDA](media/eda.png)
 
 ### Feature Engineering
 
 A "Feature" is a measurable attribute of phenomenon being observed. Based on the nature of analytical question asked in the first step, a data scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve i.e. creating a BMI (Body Mass Index) from the weights and heights of individuals in the dataset. This stage will directly influence the accuracy of the predictive model you construct in the next stage.
 
-![Feat](feat.png)
+![Feat](media/feat.png)
 
 ### Predictive Modeling
 
@@ -101,7 +101,7 @@ Modeling also involves evaluation of the results to identify the level of confid
 
 Data Visualization is a multidisciplinary domain in itself and borrows ideas from communication theory, psychology, statistics After deriving the required results from a statistical model, visualizations are normally used to summarize and present the findings of analysis process in a form which is easily understandable by non-technical decision makers. Data visualization could be thought of as an evolution of visual communication techniques as it deals with "VISUAL" representation of data. A number of different data visualization techniques ranging from bar graphs, line graphs, scatter plots to alluvial diagrams, spatio-temporal visualizations, etc.
 
-![Visualization Examples](Data_Viz_Catalog.PNG)
+![Visualization Examples](media/data_viz_catalog.png)
 
 ### Data Science Roles (20 min including exercise)
 
@@ -111,43 +111,43 @@ The data analytics field offers a number of different roles which may expect sli
 
 A data scientist masters a whole range of skills and talents going from being able to handle the raw data, analyzing that data with the help of statists, modeling for predictive analysis to sharing insights with his peers in a compelling way using visualizations.
 
-![Data Scientist](data-scientist.jpg)
+![Data Scientist](media/data-scientist.jpg)
 
 #### Data Analyst
 
 Data Analyst carries a diverse skill set ranging from coding, data collection, statistics and communications skills. There is some overlap between the skills expected from data scientists and analysts as shown along side their personas.
 
-![Data Analyst](data-analyst.jpg)
+![Data Analyst](media/data-analyst.jpg)
 
 #### Data Architect
 
 The data architect is responsible for design and development of data management systems which combine, centralize, secure and maintain the data sources. With the rise of big data, the demand for data architects is rapidly increasing.
 
-![Data Architect](data-architect.jpg)
+![Data Architect](media/data-architect.jpg)
 
 #### Data Engineer
 
 A data engineer is required to have expertise in software engineering with in-depth knowledge of design and build type projects. A data engineer having a breadth of knowledge on different technologies and development platforms can easily adapt to new systems and processes.
 
-![Data Engineer](data-engineer.jpg)
+![Data Engineer](media/data-engineer.jpg)
 
 #### Statistician
 
 The primary responsibility of a statistician is getting useful insights from the data. In other words, a statistician turns data into information and knowledge which helps towards managerial decision making. A statistician's quantitative background helps greatly towards learning new platforms and technologies for data analysis.
 
-![Statistician](statistician.jpg)
+![Statistician](media/statistician.jpg)
 
 #### Database Administrator (DBA)
 
 Data is being the "New Gold". A DBA ensures the availability, integrity and security of data. DBA also makes sure that data backup and recovery processes are well defined and are in place. DBA would normally be expected to know the state of the art data management technologies.
 
-![DBA](dba.jpg)
+![DBA](media/dba.jpg)
 
 #### Business Analyst
 
 A business analyst is not required to have in-depth knowledge of analytics related tools and technologies, instead he/she is required to have knowledge and experience of the processes related to problem domain. A Business analyst converts data insights into business insights and is also responsible for organization-wide dissemination of these insights. You can think of a business analyst as a bridge between technical staff and operational staff.
 
-![Business Analyst](business-analyst.jpg)
+![Business Analyst](media/business-analyst.jpg)
 
 > Exercise: Take 5 minutes to think about different data science roles shown above. In your opinion, which of these roles suits your aspirations and skills. Also think about the skills required by your dream role that you may not currently have. Discuss in pairs. Share your ideas with the instructor.
 

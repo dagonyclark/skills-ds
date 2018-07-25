@@ -9,13 +9,19 @@
 | Welcome and introductions — 20 min (end 6:30 PM) | Present the [Course Introduction slides]() (please copy and tailor deck to your class / location if desired) |
 | Lesson — 40 min (end 7:10 PM)  | [The Data Science Process and Roles](lessons/the_data_science_process_and_roles/README.md#readme) |
 | Break — 5 min (end 7:15 PM) | |
-| Lesson — 90 min (9:15 PM) | [Data Science Tools and Technologies]() |
+| Lesson — ## min (#:## PM) | [Data Science Tools and Technologies](lessons/data_science_tools_and_technologies/README.md#readme) |
+| Lab — ## min (#:## PM) | [Practice with Data Types](https://github.com/learn-co-curriculum/python-practice-with-datatypes) |
+| Lab — ## min (#:## PM) | [Variables Lab](https://github.com/learn-co-curriculum/python-variables-lab) |
+| Lab — ## min (#:## PM) | [Python User IO](https://github.com/learn-co-curriculum/ds-python-userIO) |
+| Closing — 10 min (end 9:00 PM) | |
 
 ### Day 2: Python Data Structures
 
 | Class start — 6:00 PM | |
 |-----------------------|-|
-| Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead. |
+| Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead |
+| Lesson — 40 min (end 7:10 PM)  | [The Data Science Process and Roles](lessons/the_data_science_process_and_roles/README.md#readme) |
+| Closing — 10 min (end 9:00 PM) | |
 
 ---
 
@@ -25,10 +31,12 @@
 
 | Class start — 6:00 PM | |
 |-----------------------|-|
-| Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead. |
+| Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead |
+| Closing — 10 min (end 9:00 PM) | |
 
 ### Day 2: Conditions and Iterations in Python
 
 | Class start — 6:00 PM | |
 |-----------------------|-|
-| Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead. |
+| Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead |
+| Closing — 10 min (end 9:00 PM) | |
