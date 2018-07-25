@@ -1,8 +1,8 @@
 # Lesson — The Data Science Process and Roles
 
 - Skills Course / Intro to Data Science
-- Week # / Day #
-- ## min
+- Week ? / Day ?
+- ?? min
 
 ## Overview
 

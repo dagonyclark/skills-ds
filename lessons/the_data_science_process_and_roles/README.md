@@ -2,7 +2,7 @@
 
 - Skills Course / Intro to Data Science
 - Week 1 / Day 1
-- 40 min
+- ?? min
 
 ## Overview
 
