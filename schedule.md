@@ -16,7 +16,8 @@
 | Class start — 6:00 PM | |
 |-----------------------|-|
 | Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead. |
-| | |
+
+---
 
 ## Week 2: Visualizations and Iteration
 
@@ -25,11 +26,9 @@
 | Class start — 6:00 PM | |
 |-----------------------|-|
 | Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead. |
-| | |
 
 ### Day 2: Conditions and Iterations in Python
 
 | Class start — 6:00 PM | |
 |-----------------------|-|
 | Welcome back — 5 min (end 6:05 PM) | Recap where we’ve been, where we are now, preview the week and day ahead. |
-| | |
