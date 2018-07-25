@@ -1,7 +1,7 @@
 # Lesson — The Data Science Process and Roles
 
 - Skills Course / Intro to Data Science
-- Week # / Day #
+- Week 1 / Day 2
 - ## min
 
 ## Overview
@@ -28,7 +28,7 @@
 
 Explain the idea behind non-primitive vs. primitive data structures independent of programming platforms.
 
-![media/datastruct](datastruct.png)
+![datastruct](media/datastruct.png)
 
 **Primitive Data Structures**
 
@@ -104,13 +104,13 @@ Practice dictionary creation, modification and operations highlighted in the les
 
 As data scientists, you will be routinely importing data from external sources including text files, XLS, CSV, XML, JSON and relational databases, to name a few. Following lesson given a brief insight into opening an xl file and reading data to be processed in Python. We will use Pandas module in python which has built in methods to read and write different data file formats. Provide a quick introduction to Pandas. Further details on Pandas and its applications will be later covered in the course.
 
-![media/comparison](comparison2.png)
+![comparison](media/comparison2.png)
 
-[Click here to access the lesson](code/xl_to_python.ipynb)
+[Click here to access the lesson](code/index.ipynb)
 
 ### Python Dictionaries discussion and quick introduction to additional data (Sets, Tuples etc) structures with use cases (15 mins)
 
-![media/comparison](comparison.jpeg)
+![comparison](media/comparison.jpeg)
 
 ### Extra reading
 
